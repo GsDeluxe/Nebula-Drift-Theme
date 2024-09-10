@@ -2,65 +2,65 @@
   "name": "Nebula Drift",
   "description": "A dark theme with Electric Violet accents and a cosmic vibe.",
   "authors": [
-    {
-      "name": "gsdeluxe#0000",
-      "id": "1186639691659886603"
-    }
+      {
+          "name": "gsdeluxe#0000",
+          "id": "1186639691659886603"
+      }
   ],
   "semanticColors": {
       "ANDROID_RIPPLE": [
           "#6c6c6c"
       ],
       "BACKGROUND_ACCENT": [
-          "#9332ff"
+          "#7f28e1"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
           "#6c6c6c"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
-          "#171717"
+          "#121212"
       ],
       "BACKGROUND_MOBILE_SECONDARY": [
-          "#121212"
+          "#0f0f0f"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
-          "#121212"
+          "#0f0f0f"
       ],
       "BACKGROUND_MODIFIER_HOVER": [
           "#6c6c6c"
       ],
       "BACKGROUND_MODIFIER_SELECTED": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "BACKGROUND_PRIMARY": [
-          "#171717"
+          "#121212"
       ],
       "BACKGROUND_SECONDARY": [
-          "#121212"
+          "#0f0f0f"
       ],
       "BACKGROUND_SECONDARY_ALT": [
-          "#121212"
+          "#0f0f0f"
       ],
       "BACKGROUND_TERTIARY": [
-          "#121212"
+          "#0f0f0f"
       ],
       "BG_BASE_PRIMARY": [
-          "#171717"
+          "#121212"
       ],
       "BG_BACKDROP": [
           "#000000b2"
       ],
       "BG_BASE_SECONDARY": [
-          "#121212"
+          "#0f0f0f"
       ],
       "CARD_SECONDARY_BG": [
-          "#171717"
+          "#121212"
       ],
       "CARD_PRIMARY_BG": [
-          "#171717"
+          "#121212"
       ],
       "CHANNEL_ICON": [
           "#a0a0a0"
@@ -69,43 +69,43 @@
           "#b0b0b0"
       ],
       "HEADER_PRIMARY": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "HEADER_SECONDARY": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "INTERACTIVE_ACTIVE": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "INTERACTIVE_HOVER": [
           "#6c6c6c"
       ],
       "INTERACTIVE_MUTED": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "INTERACTIVE_NORMAL": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "MENTION_BACKGROUND": [
-          "#f4a8ff"
+          "#e68eff"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "REDESIGN_BUTTON_SECONDARY_BORDER": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "REDESIGN_CHANNEL_NAME_TEXT": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-          "#2c2c2c"
+          "#1c1c1c"
       ],
       "STATUS_DANGER": [
           "#ff3333"
@@ -114,61 +114,61 @@
           "#ff3333"
       ],
       "STATUS_DANGER_TEXT": [
-          "#171717"
+          "#121212"
       ],
       "TEXT_DANGER": [
           "#ff3333"
       ],
       "TEXT_LINK": [
-          "#f5e0dc"
+          "#e66bff"
       ],
       "TEXT_MUTED": [
           "#b0b0b0"
       ],
       "TEXT_NORMAL": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "TEXT_PRIMARY": [
-          "#b0a6ff"
+          "#9e8aff"
       ],
       "TEXT_SECONDARY": [
           "#b0b0b0"
       ]
   },
   "rawColors": {
-      "BRAND_260": "#b0a6ff",
+      "BRAND_260": "#9e8aff",
       "BRAND_360": "#74c7ec",
-      "BRAND_500": "#9332ff",
-      "BRAND_560": "#b0a6ff",
-      "PRIMARY_100": "#b0a6ff",
-      "PRIMARY_300": "#171717",
-      "PRIMARY_360": "#9332ff",
-      "PRIMARY_400": "#9332ff",
-      "PRIMARY_460": "#121212",
-      "PRIMARY_500": "#b0a6ff",
-      "PRIMARY_600": "#171717",
-      "PRIMARY_630": "#171717",
-      "PRIMARY_660": "#121212",
-      "PRIMARY_700": "#121212",
-      "PRIMARY_800": "#121212",
-      "PLUM_1": "#b0a6ff",
-      "PLUM_10": "#b0a6ff",
-      "PLUM_11": "#2c2c2c",
-      "PLUM_13": "#b0a6ff",
-      "PLUM_15": "#2c2c2c",
-      "PLUM_16": "#121212",
-      "PLUM_17": "#121212",
-      "PLUM_18": "#2c2c2c",
-      "PLUM_19": "#2c2c2c",
-      "PLUM_20": "#171717",
-      "PLUM_21": "#9332ff50",
-      "PLUM_22": "#2c2c2c",
-      "PLUM_24": "#121212",
-      "PLUM_25": "#121212",
-      "PLUM_3": "#b0a6ff",
-      "PLUM_4": "#9332ff50",
-      "PLUM_6": "#b0a6ff",
-      "PLUM_9": "#b0a6ff",
+      "BRAND_500": "#7f28e1",
+      "BRAND_560": "#9e8aff",
+      "PRIMARY_100": "#9e8aff",
+      "PRIMARY_300": "#121212",
+      "PRIMARY_360": "#7f28e1",
+      "PRIMARY_400": "#7f28e1",
+      "PRIMARY_460": "#0f0f0f",
+      "PRIMARY_500": "#9e8aff",
+      "PRIMARY_600": "#121212",
+      "PRIMARY_630": "#121212",
+      "PRIMARY_660": "#0f0f0f",
+      "PRIMARY_700": "#0f0f0f",
+      "PRIMARY_800": "#0f0f0f",
+      "PLUM_1": "#9e8aff",
+      "PLUM_10": "#9e8aff",
+      "PLUM_11": "#1c1c1c",
+      "PLUM_13": "#9e8aff",
+      "PLUM_15": "#1c1c1c",
+      "PLUM_16": "#0f0f0f",
+      "PLUM_17": "#0f0f0f",
+      "PLUM_18": "#1c1c1c",
+      "PLUM_19": "#1c1c1c",
+      "PLUM_20": "#121212",
+      "PLUM_21": "#7f28e150",
+      "PLUM_22": "#1c1c1c",
+      "PLUM_24": "#0f0f0f",
+      "PLUM_25": "#0f0f0f",
+      "PLUM_3": "#9e8aff",
+      "PLUM_4": "#7f28e150",
+      "PLUM_6": "#9e8aff",
+      "PLUM_9": "#9e8aff",
       "GREEN_100": "#5AFFC0",
       "GREEN_130": "#5AFFC0",
       "GREEN_160": "#5AFFC0",
@@ -196,8 +196,8 @@
       "GREEN_860": "#5AFFC0",
       "GREEN_900": "#5AFFC0",
       "GUILD_BOOSTING_PINK": "#f5c2e7",
-      "GUILD_BOOSTING_PURPLE": "#9332ff",
-      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#9332ff",
+      "GUILD_BOOSTING_PURPLE": "#7f28e1",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#7f28e1",
       "RED_260": "#ff3333",
       "RED_300": "#ff3333",
       "RED_330": "#ff3333",
@@ -242,7 +242,7 @@
       "YELLOW_900": "#FDFF78"
   },
   "plugin": {
-    "description": "Nebula Drift theme with Electric Violet accents and a cosmic vibe.",
-    "name": "Nebula Drift"
+      "description": "Nebula Drift theme with Electric Violet accents and a cosmic vibe.",
+      "name": "Nebula Drift"
   }
 }
