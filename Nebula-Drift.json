@@ -8,251 +8,241 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_RIPPLE": [
-      "#9332ff"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#9332ff"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "#9332ff"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#171717"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "#171717"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "#9332ff"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "#1e1e1e"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#171717"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#171717"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#171717"
-    ],
-    "BACKGROUND_TERTIARY": [
-      "#171717"
-    ],
-    "BG_BASE_PRIMARY": [
-      "#171717"
-    ],
-    "BG_BACKDROP": [
-      "#000000b2"
-    ],
-    "BG_BASE_SECONDARY": [
-      "#171717"
-    ],
-    "CARD_SECONDARY_BG": [
-      "#171717"
-    ],
-    "CARD_PRIMARY_BG": [
-      "#171717"
-    ],
-    "CHANNEL_ICON": [
-      "#9332ff"
-    ],
-    "CHANNELS_DEFAULT": [
-      "#9332ff"
-    ],
-    "HEADER_PRIMARY": [
-      "#9332ff"
-    ],
-    "HEADER_SECONDARY": [
-      "#9332ff"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#9332ff"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#9332ff"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#9332ff"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#9332ff"
-    ],
-    "MENTION_BACKGROUND": [
-      "#FDFF78"
-    ],
-    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#171717"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-      "#171717"
-    ],
-    "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#171717"
-    ],
-    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
-      "#9332ff"
-    ],
-    "REDESIGN_CHANNEL_NAME_TEXT": [
-      "#9332ff"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#171717"
-    ],
-    "STATUS_DANGER": [
-      "#fd5558"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#fd5558"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#171717"
-    ],
-    "TEXT_DANGER": [
-      "#fd5558"
-    ],
-    "TEXT_LINK": [
-      "#9332ff"
-    ],
-    "TEXT_MUTED": [
-      "#9332ff"
-    ],
-    "TEXT_NORMAL": [
-      "#9332ff"
-    ],
-    "TEXT_PRIMARY": [
-      "#9332ff"
-    ],
-    "TEXT_SECONDARY": [
-      "#9332ff"
-    ],
-    "BUTTON_BACKGROUND": [
-      "#202020"
-    ],
-    "BUTTON_BACKGROUND_HOVER": [
-      "#282828"
-    ],
-    "BUTTON_ICON_COLOR": [
-      "#9332ff" 
-    ]
+      "ANDROID_RIPPLE": [
+          "#6c6c6c"
+      ],
+      "BACKGROUND_ACCENT": [
+          "#9332ff"
+      ],
+      "BACKGROUND_MESSAGE_HOVER": [
+          "#6c6c6c"
+      ],
+      "BACKGROUND_MOBILE_PRIMARY": [
+          "#171717"
+      ],
+      "BACKGROUND_MOBILE_SECONDARY": [
+          "#121212"
+      ],
+      "BACKGROUND_MODIFIER_ACCENT": [
+          "#2c2c2c"
+      ],
+      "BACKGROUND_MODIFIER_ACTIVE": [
+          "#121212"
+      ],
+      "BACKGROUND_MODIFIER_HOVER": [
+          "#6c6c6c"
+      ],
+      "BACKGROUND_MODIFIER_SELECTED": [
+          "#2c2c2c"
+      ],
+      "BACKGROUND_PRIMARY": [
+          "#171717"
+      ],
+      "BACKGROUND_SECONDARY": [
+          "#121212"
+      ],
+      "BACKGROUND_SECONDARY_ALT": [
+          "#121212"
+      ],
+      "BACKGROUND_TERTIARY": [
+          "#121212"
+      ],
+      "BG_BASE_PRIMARY": [
+          "#171717"
+      ],
+      "BG_BACKDROP": [
+          "#000000b2"
+      ],
+      "BG_BASE_SECONDARY": [
+          "#121212"
+      ],
+      "CARD_SECONDARY_BG": [
+          "#171717"
+      ],
+      "CARD_PRIMARY_BG": [
+          "#171717"
+      ],
+      "CHANNEL_ICON": [
+          "#a0a0a0"
+      ],
+      "CHANNELS_DEFAULT": [
+          "#b0b0b0"
+      ],
+      "HEADER_PRIMARY": [
+          "#b0a6ff"
+      ],
+      "HEADER_SECONDARY": [
+          "#b0a6ff"
+      ],
+      "INTERACTIVE_ACTIVE": [
+          "#b0a6ff"
+      ],
+      "INTERACTIVE_HOVER": [
+          "#6c6c6c"
+      ],
+      "INTERACTIVE_MUTED": [
+          "#2c2c2c"
+      ],
+      "INTERACTIVE_NORMAL": [
+          "#b0a6ff"
+      ],
+      "MENTION_BACKGROUND": [
+          "#f4a8ff"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+          "#2c2c2c"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+          "#2c2c2c"
+      ],
+      "REDESIGN_BUTTON_SECONDARY_BORDER": [
+          "#2c2c2c"
+      ],
+      "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+          "#b0a6ff"
+      ],
+      "REDESIGN_CHANNEL_NAME_TEXT": [
+          "#b0a6ff"
+      ],
+      "SPOILER_HIDDEN_BACKGROUND": [
+          "#2c2c2c"
+      ],
+      "STATUS_DANGER": [
+          "#ff3333"
+      ],
+      "STATUS_DANGER_BACKGROUND": [
+          "#ff3333"
+      ],
+      "STATUS_DANGER_TEXT": [
+          "#171717"
+      ],
+      "TEXT_DANGER": [
+          "#ff3333"
+      ],
+      "TEXT_LINK": [
+          "#f5e0dc"
+      ],
+      "TEXT_MUTED": [
+          "#b0b0b0"
+      ],
+      "TEXT_NORMAL": [
+          "#b0a6ff"
+      ],
+      "TEXT_PRIMARY": [
+          "#b0a6ff"
+      ],
+      "TEXT_SECONDARY": [
+          "#b0b0b0"
+      ]
   },
   "rawColors": {
-    "BRAND_260": "#9332ff",
-    "BRAND_360": "#9332ff",
-    "BRAND_500": "#9332ff",
-    "BRAND_560": "#9332ff",
-    "PRIMARY_100": "#9332ff",
-    "PRIMARY_300": "#171717",
-    "PRIMARY_360": "#9332ff",
-    "PRIMARY_400": "#9332ff",
-    "PRIMARY_460": "#171717",
-    "PRIMARY_500": "#9332ff",
-    "PRIMARY_600": "#171717",
-    "PRIMARY_630": "#171717",
-    "PRIMARY_660": "#171717",
-    "PRIMARY_700": "#171717",
-    "PRIMARY_800": "#171717",
-    "PLUM_1": "#9332ff",
-    "PLUM_10": "#9332ff",
-    "PLUM_11": "#171717",
-    "PLUM_13": "#9332ff",
-    "PLUM_15": "#1e1e1e",
-    "PLUM_16": "#171717",
-    "PLUM_17": "#171717",
-    "PLUM_18": "#171717",
-    "PLUM_19": "#171717",
-    "PLUM_20": "#171717",
-    "PLUM_21": "#9332ff50",
-    "PLUM_22": "#171717",
-    "PLUM_24": "#171717",
-    "PLUM_25": "#171717",
-    "PLUM_3": "#9332ff",
-    "PLUM_4": "#9332ff50",
-    "PLUM_6": "#9332ff",
-    "PLUM_9": "#9332ff",
-    "GREEN_100": "#5AFFC0",
-    "GREEN_130": "#5AFFC0",
-    "GREEN_160": "#5AFFC0",
-    "GREEN_200": "#5AFFC0",
-    "GREEN_230": "#5AFFC0",
-    "GREEN_260": "#5AFFC0",
-    "GREEN_300": "#5AFFC0",
-    "GREEN_330": "#5AFFC0",
-    "GREEN_345": "#5AFFC0",
-    "GREEN_360": "#5AFFC0",
-    "GREEN_400": "#5AFFC0",
-    "GREEN_430": "#5AFFC0",
-    "GREEN_460": "#5AFFC0",
-    "GREEN_500": "#5AFFC0",
-    "GREEN_530": "#5AFFC0",
-    "GREEN_560": "#5AFFC0",
-    "GREEN_600": "#5AFFC0",
-    "GREEN_630": "#5AFFC0",
-    "GREEN_660": "#5AFFC0",
-    "GREEN_700": "#5AFFC0",
-    "GREEN_730": "#5AFFC0",
-    "GREEN_760": "#5AFFC0",
-    "GREEN_800": "#5AFFC0",
-    "GREEN_830": "#5AFFC0",
-    "GREEN_860": "#5AFFC0",
-    "GREEN_900": "#5AFFC0",
-    "GUILD_BOOSTING_PINK": "#FF3BDE",
-    "GUILD_BOOSTING_PURPLE": "#9332ff",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#9332ff",
-    "RED_260": "#fd5558",
-    "RED_300": "#fd5558",
-    "RED_330": "#fd5558",
-    "RED_345": "#fd5558",
-    "RED_360": "#fd5558",
-    "RED_400": "#fd5558",
-    "RED_430": "#fd5558",
-    "RED_460": "#fd5558",
-    "RED_500": "#fd5558",
-    "RED_530": "#fd5558",
-    "RED_560": "#fd5558",
-    "RED_600": "#fd5558",
-    "RED_630": "#fd5558",
-    "RED_660": "#fd5558",
-    "RED_700": "#fd5558",
-    "WHITE_500": "#5b6078",
-    "YELLOW_100": "#FDFF78",
-    "YELLOW_130": "#FDFF78",
-    "YELLOW_160": "#FDFF78",
-    "YELLOW_200": "#FDFF78",
-    "YELLOW_230": "#FDFF78",
-    "YELLOW_260": "#FDFF78",
-    "YELLOW_300": "#FDFF78",
-    "YELLOW_330": "#FDFF78",
-    "YELLOW_345": "#FDFF78",
-    "YELLOW_360": "#FDFF78",
-    "YELLOW_400": "#FDFF78",
-    "YELLOW_430": "#FDFF78",
-    "YELLOW_460": "#FDFF78",
-    "YELLOW_500": "#171717",
-    "YELLOW_530": "#FDFF78",
-    "YELLOW_560": "#FDFF78",
-    "YELLOW_600": "#FDFF78",
-    "YELLOW_630": "#FDFF78",
-    "YELLOW_660": "#FDFF78",
-    "YELLOW_700": "#FDFF78",
-    "YELLOW_730": "#FDFF78",
-    "YELLOW_760": "#FDFF78",
-    "YELLOW_800": "#FDFF78",
-    "YELLOW_830": "#FDFF78",
-    "YELLOW_860": "#FDFF78",
-    "YELLOW_900": "#FDFF78"
+      "BRAND_260": "#b0a6ff",
+      "BRAND_360": "#74c7ec",
+      "BRAND_500": "#9332ff",
+      "BRAND_560": "#b0a6ff",
+      "PRIMARY_100": "#b0a6ff",
+      "PRIMARY_300": "#171717",
+      "PRIMARY_360": "#9332ff",
+      "PRIMARY_400": "#9332ff",
+      "PRIMARY_460": "#121212",
+      "PRIMARY_500": "#b0a6ff",
+      "PRIMARY_600": "#171717",
+      "PRIMARY_630": "#171717",
+      "PRIMARY_660": "#121212",
+      "PRIMARY_700": "#121212",
+      "PRIMARY_800": "#121212",
+      "PLUM_1": "#b0a6ff",
+      "PLUM_10": "#b0a6ff",
+      "PLUM_11": "#2c2c2c",
+      "PLUM_13": "#b0a6ff",
+      "PLUM_15": "#2c2c2c",
+      "PLUM_16": "#121212",
+      "PLUM_17": "#121212",
+      "PLUM_18": "#2c2c2c",
+      "PLUM_19": "#2c2c2c",
+      "PLUM_20": "#171717",
+      "PLUM_21": "#9332ff50",
+      "PLUM_22": "#2c2c2c",
+      "PLUM_24": "#121212",
+      "PLUM_25": "#121212",
+      "PLUM_3": "#b0a6ff",
+      "PLUM_4": "#9332ff50",
+      "PLUM_6": "#b0a6ff",
+      "PLUM_9": "#b0a6ff",
+      "GREEN_100": "#5AFFC0",
+      "GREEN_130": "#5AFFC0",
+      "GREEN_160": "#5AFFC0",
+      "GREEN_200": "#5AFFC0",
+      "GREEN_230": "#5AFFC0",
+      "GREEN_260": "#5AFFC0",
+      "GREEN_300": "#5AFFC0",
+      "GREEN_330": "#5AFFC0",
+      "GREEN_345": "#5AFFC0",
+      "GREEN_360": "#5AFFC0",
+      "GREEN_400": "#5AFFC0",
+      "GREEN_430": "#5AFFC0",
+      "GREEN_460": "#5AFFC0",
+      "GREEN_500": "#5AFFC0",
+      "GREEN_530": "#5AFFC0",
+      "GREEN_560": "#5AFFC0",
+      "GREEN_600": "#5AFFC0",
+      "GREEN_630": "#5AFFC0",
+      "GREEN_660": "#5AFFC0",
+      "GREEN_700": "#5AFFC0",
+      "GREEN_730": "#5AFFC0",
+      "GREEN_760": "#5AFFC0",
+      "GREEN_800": "#5AFFC0",
+      "GREEN_830": "#5AFFC0",
+      "GREEN_860": "#5AFFC0",
+      "GREEN_900": "#5AFFC0",
+      "GUILD_BOOSTING_PINK": "#f5c2e7",
+      "GUILD_BOOSTING_PURPLE": "#9332ff",
+      "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#9332ff",
+      "RED_260": "#ff3333",
+      "RED_300": "#ff3333",
+      "RED_330": "#ff3333",
+      "RED_345": "#ff3333",
+      "RED_360": "#ff3333",
+      "RED_400": "#ff3333",
+      "RED_430": "#ff3333",
+      "RED_460": "#ff3333",
+      "RED_500": "#ff3333",
+      "RED_530": "#ff3333",
+      "RED_560": "#ff3333",
+      "RED_600": "#ff3333",
+      "RED_630": "#ff3333",
+      "RED_660": "#ff3333",
+      "RED_700": "#ff3333",
+      "WHITE_500": "#5b6078",
+      "YELLOW_100": "#FDFF78",
+      "YELLOW_130": "#FDFF78",
+      "YELLOW_160": "#FDFF78",
+      "YELLOW_200": "#FDFF78",
+      "YELLOW_230": "#FDFF78",
+      "YELLOW_260": "#FDFF78",
+      "YELLOW_300": "#FDFF78",
+      "YELLOW_330": "#FDFF78",
+      "YELLOW_345": "#FDFF78",
+      "YELLOW_360": "#FDFF78",
+      "YELLOW_400": "#FDFF78",
+      "YELLOW_430": "#FDFF78",
+      "YELLOW_460": "#FDFF78",
+      "YELLOW_500": "#FDFF78",
+      "YELLOW_530": "#FDFF78",
+      "YELLOW_560": "#FDFF78",
+      "YELLOW_600": "#FDFF78",
+      "YELLOW_630": "#FDFF78",
+      "YELLOW_660": "#FDFF78",
+      "YELLOW_700": "#FDFF78",
+      "YELLOW_730": "#FDFF78",
+      "YELLOW_760": "#FDFF78",
+      "YELLOW_800": "#FDFF78",
+      "YELLOW_830": "#FDFF78",
+      "YELLOW_860": "#FDFF78",
+      "YELLOW_900": "#FDFF78"
   },
   "plugin": {
     "description": "Nebula Drift theme with Electric Violet accents and a cosmic vibe.",
     "name": "Nebula Drift"
   }
 }
-
