@@ -133,6 +133,15 @@
     ],
     "TEXT_SECONDARY": [
       "#9332ff"
+    ],
+    "BUTTON_BACKGROUND": [
+      "#202020"
+    ],
+    "BUTTON_BACKGROUND_HOVER": [
+      "#282828"
+    ],
+    "BUTTON_ICON_COLOR": [
+      "#9332ff"
     ]
   },
   "rawColors": {
