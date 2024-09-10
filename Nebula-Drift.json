@@ -33,7 +33,7 @@
       "#9332ff"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#171717"
+      "#1e1e1e"
     ],
     "BACKGROUND_PRIMARY": [
       "#171717"
@@ -164,7 +164,7 @@
     "PLUM_10": "#9332ff",
     "PLUM_11": "#171717",
     "PLUM_13": "#9332ff",
-    "PLUM_15": "#171717",
+    "PLUM_15": "#1e1e1e",
     "PLUM_16": "#171717",
     "PLUM_17": "#171717",
     "PLUM_18": "#171717",
@@ -255,3 +255,4 @@
     "name": "Nebula Drift"
   }
 }
+
